@@ -1,0 +1,41 @@
+body{
+    background-color: #D7DBDD!important;
+}
+
+.vuota{
+    height: 3vw;
+}
+.riquadro{
+    border: 1px solid #fff;
+    border-radius: 0.8em;
+    width: 99%;
+    height: auto;
+    margin: 2vw 2vw 2vw 2vw;
+    padding: 2vw 2vw 2vw 2wv;
+    background-color: #909497;
+    
+}
+label{
+    color: #fff;
+    font-weight: 800;
+    margin-top: 2vw!important;
+    margin-bottom: 2vw;
+}
+input{
+    vertical-align: middle;
+    margin-top: 1vw!important;
+}
+span{
+    margin-left: 2vw!important;
+    width: 88%;
+}
+.corrette{
+font-size: 18px;
+color: green;
+font-weight: 800;
+}
+.errate{
+    font-size: 18px;
+    color: red;
+    font-weight: 800;
+}

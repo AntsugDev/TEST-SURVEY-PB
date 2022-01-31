@@ -1,0 +1,73 @@
+[
+     {
+          "dati": {
+               "0": {
+                    "request": "How do you write \"Hello World\" in PHP",
+                    "response": {
+                         "1": "Hello World ",
+                         "2": "echo \"Hello World\"",
+                         "3": "System.out.print(\"Hello World\")"
+                    },
+                    "multichoice": false
+               },
+               "1": {
+                    "request": "What is the correct way to include the file \"time.inc\" ?",
+                    "response": {
+                         "1": "  include \"time.inc\"; ",
+                         "2": "  include file=\"time.inc\"; ",
+                         "3": "  include:\"time.inc\"; ",
+                         "4": "  include (\"time.inc\"); ",
+                         "5": "  include_once \"time.inc\"; "
+                    },
+                    "multichoice": true
+               },
+               "2": {
+                    "request": "Which of the following is correct ?",
+                    "response": {
+                         "1": "  jQuery is a JSON Library",
+                         "2": "  jQuery is a JavaScript Library"
+                    },
+                    "multichoice": false
+               },
+               "3": {
+                    "request": "Is it possible to use jQuery together with AJAX?",
+                    "response": {
+                         "1": "Yes",
+                         "2": "No"
+                    },
+                    "multichoice": false
+               },
+               "4": {
+                    "request": "What is the correct jQuery code for making all div elements 100 pixels high?",
+                    "response": {
+                         "1": " $(\"div\").height(100)",
+                         "2": "$(\"div\").css('height','100px')",
+                         "3": " $(\"div\").height=\"100\""
+                    },
+                    "multichoice": true
+               }
+          },
+          "correct": {
+               "0": {
+                    "step": "0",
+                    "value": "2"
+               },
+               "1": {
+                    "step": "1",
+                    "value": "1,4,5"
+               },
+               "2": {
+                    "step": "2",
+                    "value": "2"
+               },
+               "3": {
+                    "step": "3",
+                    "value": "1"
+               },
+               "4": {
+                    "step": "4",
+                    "value": "1,2"
+               }
+          }
+     }
+]

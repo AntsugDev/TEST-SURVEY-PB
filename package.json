@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test Survey",
+  "main": "index.html",
+  "scripts": {
+    "test": "index.html",
+    "start" :"index.html"
+  },
+  "author": "Antonio Sugamele",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

@@ -4,7 +4,8 @@ Test NetResults
 
 ## Installation
 
-https://github.com/AntsugDev/TEST-SURVEY.git
+https://github.com/AntsugDev/TEST-SURVEY-PB.git
+
 
 ## Usage
 For start: php -S localhost:9090
